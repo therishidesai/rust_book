@@ -1,1 +1,3 @@
-guessing_game/target
+*/debug
+*/target
+*/Cargo.lock
